@@ -2,7 +2,7 @@
 I am a researcher and data scientist currently focusing on global change ecology. My expertise lies in developing models to monitor and predict biodiversity changes using classical regression and machine learning approaches. Additionally, I have extensive experience mapping areas at risk of mosquito-borne disease transmission. With over half a decade of experience as a data scientist and geo-informatic analyst, I have worked in various domains, including ecological and environmental monitoring, digital health surveillance, finance, marketing, and tutoring. 
 
 I am passionate about data and believe in the transformative power of AI to improve people's lives and help companies achieve their goals.
-I strive to work efficiently in problem-solving, motivate individuals, and assist companies by sharing my expertise and experience through writing, mentoring, and consulting to achieve success in data science professions and projects
+I strive to work efficiently in problem-solving, motivating individuals, and assisting companies by sharing my expertise and experience through writing, mentoring, and consulting to achieve success in data science research and projects.
 
 <!--
 **ridwanshittu/ridwanshittu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
