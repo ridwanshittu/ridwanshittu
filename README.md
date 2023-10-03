@@ -4,6 +4,17 @@ I am a researcher and data scientist currently focusing on global change ecology
 I am passionate about data and believe in the transformative power of statistical and machine learning algorithms to improve understanding and prediction patterns hidden in data and help researches/companies/organizations achieve their goals.
 I strive to work efficiently in problem-solving, motivating individuals, and assisting companies by sharing my expertise and experience through writing, mentoring, and consulting to achieve success in data science research and projects.
 
+### Courses Taught
+1. [B5-Global Change Impact on species distribution](https://github.com/ridwanshittu/B5_Global_Change_SDM)
+2. [Species Distribution Modeling Training for DiMoC Workshop](https://github.com/ridwanshittu/SDM-DiMoC-Workshop1)
+   
+### Repositories 
+[github repositories](https://github.com/ridwanshittu?tab=repositories)
+
+
+
+
+
 
 
 <!--
