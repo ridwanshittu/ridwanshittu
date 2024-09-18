@@ -9,11 +9,11 @@ I strive to work efficiently in problem-solving, motivating individuals, and ass
 2. [Species Distribution Modeling Training for DiMoC Workshop](https://github.com/ridwanshittu/SDM-DiMoC-Workshop1)
 
 ### Website
-[Ridwan Shittu](https://www.ridwanshittu.com/)
-[Blog](https://https://www.ridwanshittu.com/blog.php)
+* [Ridwan Shittu](https://www.ridwanshittu.com/)
+* [Blog](https://https://www.ridwanshittu.com/blog.php)
    
 ### Repositories 
-[github repositories](https://github.com/ridwanshittu?tab=repositories)
+* [github repositories](https://github.com/ridwanshittu?tab=repositories)
 
 
 
