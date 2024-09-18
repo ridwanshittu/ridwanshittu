@@ -7,6 +7,10 @@ I strive to work efficiently in problem-solving, motivating individuals, and ass
 ### Courses Taught
 1. [B5-Global Change Impact on species distribution](https://github.com/ridwanshittu/B5_Global_Change_SDM)
 2. [Species Distribution Modeling Training for DiMoC Workshop](https://github.com/ridwanshittu/SDM-DiMoC-Workshop1)
+
+### Website
+[Ridwan Shittu](https://www.ridwanshittu.com/)
+[Blog](https://https://www.ridwanshittu.com/blog.php)
    
 ### Repositories 
 [github repositories](https://github.com/ridwanshittu?tab=repositories)
