@@ -10,7 +10,7 @@ I strive to work efficiently in problem-solving, motivating individuals, and ass
 
 ### Website
 * [Ridwan Shittu](https://www.ridwanshittu.com/)
-* [Blog](https://https://www.ridwanshittu.com/blog.php)
+* [Blog](https://www.ridwanshittu.com/blog.php)
    
 ### Repositories 
 * [github repositories](https://github.com/ridwanshittu?tab=repositories)
